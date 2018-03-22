@@ -1,0 +1,15 @@
+1. Treasure Island. Robert Louis Stevenson, retold by John Escott. Published by Oxford University Press in 2000, as part of the series Oxford Bookworms Library. The abstracts of this webpage are a direct transcription of the printed version. from the page 1 to page 20, and from page 74 to page 86. Oxford English ISBN 978-0-19-423050-6.
+
+2. Ian Miller. Treasure Island Illustrations (2000). Illustration. Amazon online reader. https://read.amazon.com/?asin=B00BHZHHC6. Last accessed 22/05/2016. (All story illustrations in the images folder, named chapter-numberOfImage (1-2 is image chapter one - image number 2) where illustrated by Ian Miller, and captured online from the Amazon online reader.)
+
+3. El Espectador. Arrow-Bottom (2016). Icon. El Espectador. http://www.elespectador.com/sites/elespectador.com/themes/el_espectador/images/arrow-bottom.png. Last accessed 22/05/2016.
+
+4. Oxford University Press (2000). Treasure Island Book Cover. Photograph. Amazon.com.  https://images-na.ssl-images-amazon.com/images/I/819slkFAd0L.jpg. last accessed 22/05/2016.
+
+5. Vegas in Pictures. Treasure Island. Photograph. Vegas in Pictures.  http://www.vegasinpictures.com/data8/images/treasureisland6.jpg. Last accessed 22/05/2016.
+
+6. Blambot Comic Fonts. Arrr Matey BB Font. Font. 1001fonts.com. http://www.1001fonts.com/arrr-matey-bb-font.html#license. Last accessed 22/05/2016. Download available under personal use only license.
+
+7. Google. Roboto. font. Google Apis. https://fonts.googleapis.com/css?family=Open+Sans. Last accessed 22/05/2016.
+
+8. Christian C. Salvadó. JavaScript snippet. Published at stack overflow comments section. 01/06/2010http://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage. Last accessed 22/05/2016.
